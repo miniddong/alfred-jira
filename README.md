@@ -1,4 +1,6 @@
 # Alfred-Jira
+> nvm 을 사용하는 경우 : https://github.com/steyep/alfred-jira/issues/69#issuecomment-361689546
+> password에는 API Token : https://confluence.atlassian.com/cloud/api-tokens-938839638.html
 This is a workflow for Alfred 2 (or Alfred 3) that can be used to interact with [JIRA](http://www.atlassian.com/jira).
 ![Alt text](https://github.com/steyep/alfred-jira/raw/master/resources/demo.gif)
 ## Installation 
